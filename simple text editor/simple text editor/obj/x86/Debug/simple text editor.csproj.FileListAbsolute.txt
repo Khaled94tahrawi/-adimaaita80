@@ -1,0 +1,8 @@
+C:\Users\96279\Desktop\simple text editor\simple text editor\obj\x86\Debug\WindowsFormsApplication1.Form1.resources
+C:\Users\96279\Desktop\simple text editor\simple text editor\obj\x86\Debug\WindowsFormsApplication1.Properties.Resources.resources
+C:\Users\96279\Desktop\simple text editor\simple text editor\obj\x86\Debug\simple text editor.csproj.GenerateResource.Cache
+C:\Users\96279\Desktop\simple text editor\simple text editor\bin\Debug\simple text editor.exe
+C:\Users\96279\Desktop\simple text editor\simple text editor\bin\Debug\simple text editor.pdb
+C:\Users\96279\Desktop\simple text editor\simple text editor\obj\x86\Debug\simple text editor.exe
+C:\Users\96279\Desktop\simple text editor\simple text editor\obj\x86\Debug\simple text editor.pdb
+C:\Users\96279\Desktop\simple text editor\simple text editor\obj\x86\Debug\simple text editor.csprojResolveAssemblyReference.cache
